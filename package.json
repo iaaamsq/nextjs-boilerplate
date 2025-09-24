@@ -21,3 +21,12 @@
     "tailwindcss": "^4"
   }
 }
+
+{
+  "name": "nextjs-api-server",
+  "version": "1.0.0",
+  "dependencies": {
+    "next": "^14.0.0",
+    "pdf2json": "^3.0.4"
+  }
+}
